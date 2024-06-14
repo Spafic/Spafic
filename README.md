@@ -52,12 +52,19 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=450 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Spafic&count_private=true&theme=holi-theme&border_radius=10" alt="streak stats"/>
+  <img height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Spafic&count_private=true&theme=holi-theme&border_radius=10" alt="streak stats"/>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Spafic&rank_icon=github&theme=holi&border_radius=10" />
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Spafic&rank_icon=github&theme=holi&border_radius=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spafic&layout=compact&langs_count=8&card_width=250&theme=holi&border_radius=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spafic&layout=compact&langs_count=8&card_width=220&theme=holi&border_radius=10" />
 </a>
+     
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Spafic&rank_icon=github&theme=holi&border_radius=10" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=350 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spafic&layout=compact&langs_count=8&card_width=250&theme=holi&border_radius=10" />
+</a>-->
 </div>
