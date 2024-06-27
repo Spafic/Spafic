@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=36&duration=3000&pause=800&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Omar+Mamon" />
+     <img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=36&duration=3000&pause=800&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Omar+Mamon+!" />
 </h1>
 
 <h3 align="center">Engineering student with a fire for code, building and contributing to innovative projects.</h3>
@@ -58,6 +58,6 @@
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Spafic&theme=holi&border_radius=10" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spafic&layout=compact&langs_count=8&card_width=250&theme=holi&border_radius=10" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spafic&layout=compact&langs_count=8&card_width=250&theme=holi&border_radius=10&count_private=true" />
   </a>
 </div>
