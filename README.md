@@ -40,10 +40,17 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,octave,mysql" /><br>
+    <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpjc2xrd3JhYW1ieW4xdm80YnViMWEwOGEyNzRuejNqZXVxazFjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRTV1ajRifLUGFh084/giphy.webp" width="300">
+    <br>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,octave,mysql,arduino" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,php,md" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,vscode,visualstudio,github,git,linux,powershell,autocad,stackoverflow" />
-    
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,pycharm,linux,powershell,discord,stackoverflow" />
+    <br>
+    <br>
+    <br>
+    <br>
 </div>
 
 <br/>
