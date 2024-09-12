@@ -45,7 +45,7 @@
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,octave,mysql,arduino" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,php,md" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,php,laravel,md" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,pycharm,linux,powershell,discord,stackoverflow" />
     <br>
     <br>
