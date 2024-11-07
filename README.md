@@ -25,7 +25,7 @@
   <a href="https://www.coursera.org/user/b971fb109f66721fa282cf4b688b9ad0" target="_blank">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.hackerrank.com/profile/omar_mamon203" target="_blank">
+  <a href="https://www.hackerrank.com/profile/OmarMamon" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.codewars.com/users/Omar%20Mamon" target="_blank">
